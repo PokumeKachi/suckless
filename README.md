@@ -1,2 +1,2 @@
 # suckless
-dwm rice
+my dwm rice repo 🔥🔥🔥
